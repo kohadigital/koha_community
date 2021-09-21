@@ -4,6 +4,11 @@
 ## Introduction
 Koha is the next-gen fintech platform for legacy planning. Our objectives are to encourage everyone to plan their legacy for the inevitable event with ease and clarity, preserve family harmony and encourage benevolence to social causes.
 
+# Table of Contents
+
+1. [Roadmap](#roadmap)
+2. [Links](#links)
+
 ## Roadmap
 - [x] Basic Conventional Will Writing
 - [x] Ease of access (Text to Speech)
