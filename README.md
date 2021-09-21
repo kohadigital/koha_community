@@ -17,6 +17,9 @@ Koha is the next-gen fintech platform for legacy planning. Our objectives are to
 Official Website: 
 [Website Link](https://koha.digital/)
 
+FAQ Info:
+[FAQ Link](https://koha.digital/join-our-beta/)
+
 Sign Up and Start Planning: 
 [SignUp Link](https://app.koha.digital/)
 
