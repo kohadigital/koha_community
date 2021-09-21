@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/31230290/134104793-30211194-2e77-45c2-a344-8399985fa065.pngg">
+<img src="https://user-images.githubusercontent.com/31230290/134104793-30211194-2e77-45c2-a344-8399985fa065.png">
 
 ##Introduction
 Koha is the next-gen fintech platform for legacy planning. Our objectives are to encourage everyone to plan their legacy for the inevitable event with ease and clarity, preserve family harmony and encourage benevolence to social causes.
